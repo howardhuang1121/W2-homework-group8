@@ -1,0 +1,17 @@
+# Local Wi-Fi credentials
+wifi_secrets.h
+
+# Arduino and runtime outputs
+build/
+.runtime/
+*.bin
+*.elf
+*.map
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*.docx
+
